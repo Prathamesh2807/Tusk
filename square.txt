@@ -1,0 +1,6 @@
+
+To find a square of a number .
+
+x=5
+y=x*x
+print(y)
